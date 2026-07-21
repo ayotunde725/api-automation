@@ -77,5 +77,5 @@ Requests Overview
 5. All requests execute automatically
 
 
-Dr. Yusuf Ayotunde
-QA Automation Engineer
+Dr. Yusuf Ayodeji
+(QA Automation Engineer)
