@@ -16,7 +16,7 @@ using environment variables, allowing the entire
 workflow to run seamlessly through the 
 Collection Runner.
 
- 📖 Postman Documentation
+ Postman Documentation
 [View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PQ1Gu)
 
  
