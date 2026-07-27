@@ -1,7 +1,19 @@
--------------------------------------------------------------------------------------------------------------------------------------
-[View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PQ1Gu)  (Book API)
+___________________________________________________________________________________________________________________________________
+(BOOK API)
 
-[View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PQ1MR)    (Student API)
+[View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PQ1Gu)  
+
+[Book API Base URL](https://simple-books-api.click)
+_____________________________________________________________________________________________________________________________________
+
+(STUDENT API )
+
+[View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PQ1MR)    
+
+[Student API URL](https://api-automation-3.onrender.com/Student)
+
+____________________________________________________________________________________________________________________________________
+
 
 [View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PR1eK)    
  Download CVS and JSON link: Link : (https://raw.githubusercontent.com/ayotunde725/api-automation/refs/heads/main/book.json)     
@@ -109,7 +121,7 @@ POSTMAN DOCUMENTATION
 [View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PQ1MR)
 
  Live Student API
-[Student API Base URL](https://api-automation-3.onrender.com/Student)
+[Student API URL](https://api-automation-3.onrender.com/Student)
 
  Key Features
 - ✅ Status code validation
