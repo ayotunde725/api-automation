@@ -13,18 +13,26 @@ ________________________________________________________________________________
 [Student API URL](https://api-automation-3.onrender.com/Student)
 
 ____________________________________________________________________________________________________________________________________
-
+DATA DRIVEN BOOK API
 
 [View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PR1eK)    
  Download CVS and JSON link: Link : (https://raw.githubusercontent.com/ayotunde725/api-automation/refs/heads/main/book.json)     
-                            (https://raw.githubusercontent.com/ayotunde725/api-automation/refs/heads/main/books.csv)          (Data Driven Book API)
-
+                            (https://raw.githubusercontent.com/ayotunde725/api-automation/refs/heads/main/books.csv)         
+_________________________________________________________________________________________________________________________________________
+(PETSTORE-API-WITH-JSON-MODEL)
                             
-[View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4Mu1n6)   (PetStore-API-With-JSON-Model)
+[View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4Mu1n6)   
 
-[View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PQfwE)    (PetStore-API-With-XML-Model)
+[Petstore-Api-Json URL](https://petstore.swagger.io/v2/user)
 
---------------------------------------------------------------------------------------------------------------------------------------
+__________________________________________________________________________________________________________________________________________
+PETSTORE-API-WITH-XML-MODEL
+
+[View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PQfwE)    
+
+[Petstore-Api-XML URL](https://petstore.swagger.io/v2/pet)
+
+___________________________________________________________________________________________________________________________________________
 
 
 
