@@ -109,7 +109,7 @@ POSTMAN DOCUMENTATION
 [View Full API Documentation Here](https://documenter.getpostman.com/view/54261214/2sBY4PQ1MR)
 
  Live Student API
-[Student API Base URL](https://my-json-server.typicode.com/ayotunde725/student-api/student)
+[Student API Base URL](https://api-automation-3.onrender.com/Student)
 
  Key Features
 - ✅ Status code validation
