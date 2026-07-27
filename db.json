@@ -1,0 +1,61 @@
+{
+  "Student": [
+    {
+      "id": "1",
+      "first_name": "Jane",
+      "last_name": "Radodave",
+      "email": "janerado0900@census.gov",
+      "gender": "Female",
+      "ip_address": "26.58.193.2",
+      "course": [
+        "Java",
+        "Biology"
+      ]
+    },
+    {
+      "id": "3",
+      "first_name": "Noell",
+      "last_name": "Bea",
+      "email": "nbea2@imageshack.us",
+      "gender": "Female",
+      "ip_address": "180.66.162.255",
+      "course": [
+        "Java",
+        "Biology"
+      ]
+    },
+    {
+      "id": "4",
+      "first_name": "Willard",
+      "last_name": "Valek",
+      "email": "wvalek3@vk.com",
+      "gender": "Male",
+      "ip_address": "67.76.188.26",
+      "course": [
+        "Java",
+        "Biology"
+      ]
+    },
+    {
+      "id": "MdvARBKzX4g",
+      "first_name": "WillardKammy",
+      "last_name": "Findik",
+      "email": "kammyfind3@vk.com",
+      "gender": "Female",
+      "ip_address": "67.76.188.26",
+      "course": [
+        "Java",
+        "Biology"
+      ]
+    },
+    {
+      "id": "zQCivulfkmc",
+      "first_name": "LAla",
+      "last_name": "femi",
+      "email": "lalafemi3@vk.com",
+      "gender": "Male",
+      "ip_address": "67.76.188.26"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
